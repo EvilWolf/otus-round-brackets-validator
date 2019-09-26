@@ -1,0 +1,19 @@
+{
+    "name": "evilwolf/round-brackets-validator",
+    "description": "Validate you round brackets!",
+    "type": "library",
+    "license": "",
+    "authors": [
+        {
+            "name": "Ilya Bogatov",
+            "email": "wolfofdeath@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "EvilWolf\\": "src/"
+        }
+    }
+}
