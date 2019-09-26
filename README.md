@@ -7,14 +7,14 @@
   "repositories": [
      {
        "type": "vcs",
-       "url": "https://github.com/EvilWolf/otus-test-package"
+       "url": "https://github.com/EvilWolf/otus-round-brackets-validator"
      }
   ],
 }
 ```
 
 Подключаем командой:  
-`$ composer require EvilWolf/otus-test-package`
+`$ composer require EvilWolf/otus-round-brackets-validator`
 
 ## Использование
 Создаём файл index.php с содержимым
