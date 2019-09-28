@@ -9,7 +9,7 @@
        "type": "vcs",
        "url": "https://github.com/EvilWolf/otus-round-brackets-validator"
      }
-  ],
+  ]
 }
 ```
 
